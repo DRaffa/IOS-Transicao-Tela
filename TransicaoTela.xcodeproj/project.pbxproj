@@ -17,6 +17,7 @@
 		53C8EED4251C060C00622F4E /* TransicaoTelaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8EED3251C060C00622F4E /* TransicaoTelaTests.swift */; };
 		53C8EEDF251C060C00622F4E /* TransicaoTelaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8EEDE251C060C00622F4E /* TransicaoTelaUITests.swift */; };
 		53C8EEF3251C12BB00622F4E /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C8EEF2251C12BB00622F4E /* SecondVC.swift */; };
+		53FDE0D825229AFE0044A40D /* Detail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53FDE0D725229AFE0044A40D /* Detail.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		53C8EEDE251C060C00622F4E /* TransicaoTelaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransicaoTelaUITests.swift; sourceTree = "<group>"; };
 		53C8EEE0251C060C00622F4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53C8EEF2251C12BB00622F4E /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		53FDE0D725229AFE0044A40D /* Detail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Detail.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				53C8EEBC251C060B00622F4E /* AppDelegate.swift */,
 				53C8EEBE251C060B00622F4E /* SceneDelegate.swift */,
 				53C8EEC2251C060B00622F4E /* Main.storyboard */,
+				53FDE0D725229AFE0044A40D /* Detail.storyboard */,
 				53C8EEC5251C060B00622F4E /* Assets.xcassets */,
 				53C8EEC7251C060B00622F4E /* LaunchScreen.storyboard */,
 				53C8EECA251C060B00622F4E /* Info.plist */,
@@ -248,6 +251,7 @@
 				53C8EEC9251C060B00622F4E /* LaunchScreen.storyboard in Resources */,
 				53C8EEC6251C060B00622F4E /* Assets.xcassets in Resources */,
 				53C8EEC4251C060B00622F4E /* Main.storyboard in Resources */,
+				53FDE0D825229AFE0044A40D /* Detail.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
